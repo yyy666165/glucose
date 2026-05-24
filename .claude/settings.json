@@ -1,0 +1,10 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(python interaction_eda.py)",
+      "Bash(python feature_engineering.py)",
+      "Bash(python feature_engineering_simplified.py)",
+      "Bash(python feature_analysis.py)"
+    ]
+  }
+}
